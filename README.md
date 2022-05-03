@@ -1,1 +1,1 @@
-# PythonBasics
+GeekBrains course "Python Basics"
