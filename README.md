@@ -1,1 +1,0 @@
-GeekBrains course "Python Basics"
